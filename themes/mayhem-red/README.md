@@ -6,9 +6,6 @@
 
 Its a work in progres
 
-/root/themes/mayhem-red
-You should be able to select it from the settings menu Settings > General > Theme > mayhem-red
-
 Dashboard
 
 <img width="747" height="528" alt="new_main_dashboard" src="https://github.com/user-attachments/assets/4087757a-a3bf-4a06-8d7c-c610a560f529" />
