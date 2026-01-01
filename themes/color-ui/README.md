@@ -3,6 +3,8 @@
 # Author: RootJunky
 # Version 1
 
+[![Video Demo](https://img.youtube.com/vi/u66qg6Bg-14/0.jpg)](https://youtu.be/u66qg6Bg-14)
+
 ### Demo Video
 [Watch on YouTube](https://youtu.be/u66qg6Bg-14)
 
